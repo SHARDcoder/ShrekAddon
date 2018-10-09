@@ -1,0 +1,6 @@
+{
+  "name":"Shrek Addon",
+  "version":"1.0.0",
+  "mainClass":"me.shardcoder.addon.ShrekAddon",
+  "desc":"Shrek is the best anime"
+}
